@@ -1,0 +1,23 @@
+{
+  "name": "assingment_openbiz",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mooosiee/Assingment_Openbiz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mooosiee/Assingment_Openbiz/issues"
+  },
+  "homepage": "https://github.com/Mooosiee/Assingment_Openbiz#readme",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.16.1"
+  }
+}
